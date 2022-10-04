@@ -3,7 +3,7 @@
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Website01_Restaurant.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Website01_Restaurant?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/$BDFDPortfolio/Website01_Restaurant?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Website01_Restaurant?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 <div align="center">
