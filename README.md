@@ -1,4 +1,3 @@
-
 Descritpion Template
 This is Project Porfolio
 
@@ -45,14 +44,30 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name  
+**Projects:** ABC Project Name
 
 **Reference:**  
 Demo: <a href="Youtube Link">Demo Website Link</a>  
-Reference:  
+Reference:
 
 - <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
+
+Credit:
+
+- <a href="http://getbootstrap.com/">Bootstrap</a>
+- <a href="https://github.com/Eonasdan/bootstrap-datetimepicker">Bootstrap DateTimePicker</a>
+- <a href="http://jquery.com/">jQuery</a>
+- <a href="http://gsgd.co.uk/sandbox/jquery/easing/">jQuery Easing</a>
+- <a href="http://modernizr.com/">Modernizr</a>
+- <a href="https://www.google.com/fonts/">Google Fonts</a>
+- <a href="https://icomoon.io/app/">Icomoon</a>
+- <a href="https://github.com/thesabbir/simple-line-icons">Simple Line Icons</a>
+- <a href="https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT">Respond JS</a>
+- <a href="https://github.com/imakewebthings/waypoints/blog/master/licenses.txt">jQuery Waypoint</a>
+- <a href="http://markdalgleish.com/projects/stellar.js/">Stellar Parallax</a>
+- <a href="http://pexels.com">Demo Images</a>
+- <a href="handdrawngoods.com/store/tasty-icons-free-food-icons/">Icon Images Hand-drawn</a>
+
   <br>
 
 <div align="center">
